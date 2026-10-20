@@ -205,6 +205,10 @@ Realizar la transición del paradigma de programación estructurada (C) hacia la
 #### 🔹 Java 2D Array
 <img width="886" height="587" alt="image" src="https://github.com/user-attachments/assets/b055b9a9-3d19-426d-aa3f-414de47ee1af" />
 
+## Indice
+<p align="center">
+*<strong><a href="índice.md">ÍNDICE</a></strong>*
+</p>
 
 
 
